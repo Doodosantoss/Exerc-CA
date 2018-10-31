@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ExerRepita {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+    
         Scanner dado = new Scanner(System.in);  
         
         int n,cv=0, soma=0, numPar=0, numImp=0, numM100=0;
